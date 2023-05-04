@@ -18,11 +18,11 @@ I am a Java Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/91610178/235704300-81353cc9-e52b-45e1-b1b7-acdd4491d176.png" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="40" height="40"/>
-  <img src="https://editorconfig.org/logos/maven.png" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/91610178/235704023-8371d46e-20ff-470b-aa88-f9f40b5f2837.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/91610178/235704300-81353cc9-e52b-45e1-b1b7-acdd4491d176.png"  title="Swagger" **alt="Swagger" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" title="Lombok" **alt="Lombok" width="40" height="40"/>
+  <img src="https://editorconfig.org/logos/maven.png"  title="Maven" **alt="Maven" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/91610178/235704023-8371d46e-20ff-470b-aa88-f9f40b5f2837.png"  title="Hibernate" **alt="Hibernate" width="40" height="40"/>
 </div>
 </br>
 
