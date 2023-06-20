@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 :man_technologist: About Me :
 
-I am a Java Developer from Russia.
+I am a Java Developer.
 - :telescope: I'm contributing to backend for building web applications and REST applications.
 
 - :seedling: Study new technologies
