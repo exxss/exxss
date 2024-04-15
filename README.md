@@ -1,28 +1,17 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/nikitadb" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java Developer</h3>
 
-- 🌱 I’m currently learning microservices on java
-- 📝 I'm contributing to backend for building web applications and REST applications.
+# 💫 About Me:
+🌱 I’m currently learning microservices on java<br>📝 I'm contributing to backend for building web applications and REST applications.
 
-Languages and Tools :
-<div>
-<a href="https://www.java.com" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>
-<a href="https://spring.io/" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>
-<a href="https://git-scm.com" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://swagger.io" target="blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/91610178/235704300-81353cc9-e52b-45e1-b1b7-acdd4491d176.png"  title="Swagger" **alt="Swagger" width="40" height="40"/></a>
-<a href="https://projectlombok.org" target="blank" rel="noreferrer">  <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" title="Lombok" **alt="Lombok" width="40" height="40"/></a>
-<a href="https://maven.apache.org" target="blank" rel="noreferrer">  <img src="https://editorconfig.org/logos/maven.png"  title="Maven" **alt="Maven" width="40" height="40"/></a>
-<a href="https://hibernate.org" target="blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/91610178/235704023-8371d46e-20ff-470b-aa88-f9f40b5f2837.png"  title="Hibernate" **alt="Hibernate" width="40" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="blank" rel="noreferrer">  <img src="https://dt-cdn.net/hub/rabbit.png"  title="RabbitMQ" **alt="RabbitMQ" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="bootstrap"  alt="bootstrap" width="40" height="40"/></a>
-<a href="https://postman.com" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="postman" width="40" height="40"/></a>
-<a href="https://www.keycloak.org" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Keycloak_Logo.png/80px-Keycloak_Logo.png" title="Keycloak"  alt="keycloak" width="40" height="40"/></a>
-</div>
-</br>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exxss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=exxss&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+#
+![](https://visitcount.itsvg.in/api?id=exxss&icon=2&color=3)
